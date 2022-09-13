@@ -1,3 +1,1 @@
-# blank-catalog
-
-Tanzu Application Platform - Tutorial
+Sample org structure for application catalog
